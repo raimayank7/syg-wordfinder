@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wordfinder.shareyourgroup.com/sitemap.xml
